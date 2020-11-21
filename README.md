@@ -15,7 +15,15 @@
 1) Solar panel - 6 Volts 9 Watts 
 1) Solar Lithium Ion Polymer Battery Charger
 1) Step up `transformer` boosts the 3.7V DC LiPoly Battery to 5.2V DC
-1) Thermistor temperature ( Resistance goes down as it gets warmer, and goes up when it gets cooler e.g. a hot summers day, 35 degrees celcius, the resistance is 6.538 K Ohms, and on the ski slopes it may be -2 degrees celcius and the resistance will be 34.97 K Ohms) [learn more, see the specific temp. to resistance lookup table](https://cdn-shop.adafruit.com/datasheets/103_3950_lookuptable.pdf)
+1) Thermistor temperature sensor
+
+<details><summary><strong> Learn more about Thermistor</strong></summary>
+Thermistor is a resistor that accurately records, temperature 
+  
+  ( Resistance goes down as it gets warmer, and goes up when it gets cooler e.g. a hot summers day, 35 degrees celcius, the resistance is 6.538 K Ohms, and on the ski slopes it may be -2 degrees celcius and the resistance will be 34.97 K Ohms) 
+  
+  [see the specific temp. to resistance lookup table](https://cdn-shop.adafruit.com/datasheets/103_3950_lookuptable.pdf)
+  </details>
 
 
 

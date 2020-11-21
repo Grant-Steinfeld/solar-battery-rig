@@ -1,4 +1,4 @@
-# solar-battery-rig
+# HOW TO: create your own solar powered battery charger
 
 ## What you will learn:
 
@@ -31,11 +31,14 @@ Thermistor is a resistor that accurately records, temperature
 ## What problem does this solve
 Supply off-grid power for any 5v device ( e.g. Raspberry Pi, iPhone, Arduido)
 
+## Instructions
+Follow along this excellent Adafruit tutorial, [USB, DC & Solar Lipoly Charger by lady ada](https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger)
+
 ## Shortfalls
 Need sunshine ( or an incandesant light source ), but you can also wire into a 5v usb charger in case there is no sunlight.
 
 ## Video
-Quick run through on how to setup a solar recharcable power source using off the shelf components
+Quick run through on the parts, and how to connect them up to create a solar recharcable battery rig,  off the shelf components
 
 
 ## Part list ... from Adafruit (total outlay USD $155.30)
@@ -58,8 +61,7 @@ Quick run through on how to setup a solar recharcable power source using off the
 
 1) 680 Ohm resistor ( donated, thanks to Courtland ) = $0
 
-## Resources
 
-Based this repo and artefacts by following this great Adafruit tutorial, [USB, DC & Solar Lipoly Charger by lady ada](https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger)
+
 
 

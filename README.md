@@ -1,5 +1,8 @@
 # HOW TO: create your own solar powered battery charger
 
+![the rig](./solar-generator-rig.jpg)
+*** Powering up Raspberry Pi 3 and Aruduino Uno weather station poc ***
+
 ## What you will learn:
 
 * how to set about how to make a solar Lithium Ion battery charger 

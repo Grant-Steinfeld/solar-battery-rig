@@ -1,4 +1,5 @@
 # HOW TO: create your own solar powered battery charger
+## v1.0.2 beta draft!
 
 ![the rig](./solar-generator-rig.jpg)
 ***Powering up Raspberry Pi 3 and Aruduino Uno weather station poc***
@@ -13,6 +14,7 @@
   
 ## Architecture
 
+diagram here - coming soon!!
 
 ## Main components used
 1) Solar panel - 6 Volts 9 Watts 
@@ -42,6 +44,8 @@ Need sunshine ( or an incandesant light source ), but you can also wire into a 5
 
 ## Video
 Quick run through on the parts, and how to connect them up to create a solar recharcable battery rig,  off the shelf components
+
+watch this space, video edit in progress!
 
 
 ## Part list ... from Adafruit (total outlay USD $155.30)

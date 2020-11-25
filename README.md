@@ -1,7 +1,7 @@
 # HOW TO: create your own solar powered battery charger
 
 ![the rig](./solar-generator-rig.jpg)
-*** Powering up Raspberry Pi 3 and Aruduino Uno weather station poc ***
+***Powering up Raspberry Pi 3 and Aruduino Uno weather station poc***
 
 ## What you will learn:
 
@@ -52,17 +52,17 @@ Quick run through on the parts, and how to connect them up to create a solar rec
 
 1) PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A (1000C) [ID:2465](https://www.adafruit.com/product/2465) = $19.95
 
-1) Lithium Ion Battery Pack - 3.7V 6600mAh[ID:353](https://www.adafruit.com/product/353) = $29.50
+1) Lithium Ion Battery Pack - 3.7V 6600mAh [ID:353](https://www.adafruit.com/product/353) = $29.50
 
 1) 10K Precision Epoxy Thermistor - 3950 NTC [ID:372](https://www.adafruit.com/product/372) = $4.00
 
-1) 3.8 / 1.3mm or 3.5 / 1.1mm to 5.5 / 2.1mm DC Jack Adapter Cable[ID:2788](https://www.adafruit.com/product/2788) = $1.50
+1) 3.8 / 1.3mm or 3.5 / 1.1mm to 5.5 / 2.1mm DC Jack Adapter Cable [ID:2788](https://www.adafruit.com/product/2788) = $1.50
 
 1) JST-PH 2-pin Jumper Cable - 100mm long [ID:4714](https://www.adafruit.com/product/4714) = $0.95
 
-1) JST 2-pin Extension Cable with On/Off Switch - JST PH2[ID:3064](https://www.adafruit.com/product/3064) = $2.95
+1) JST 2-pin Extension Cable with On/Off Switch - JST PH2[ ID:3064](https://www.adafruit.com/product/3064) = $2.95
 
-1) 680 Ohm resistor ( donated, thanks to Courtland ) = $0
+1) 680 Ohm resistor
 
 
 
